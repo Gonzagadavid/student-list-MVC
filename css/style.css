@@ -1,0 +1,28 @@
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.underlined {
+  border-bottom: 3px solid currentColor;
+}
+
+.reproved {
+  background-color: red;
+}
+
+.aproved {
+  background-color: green;
+}
+
+.form-add {
+  background: #e3ecec;
+  padding-top: 0.75em;
+}
+
+.main-title {
+  margin-bottom: 0;
+}
+
+.input-field p {
+    margin: 0;
+}
